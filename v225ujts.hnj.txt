@@ -1,0 +1,51 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   copy.txt
+#	new file:   copy2.txt
+#	new file:   ex1.py
+#	new file:   ex10.py
+#	new file:   ex11.py
+#	new file:   ex12.py
+#	new file:   ex13.py
+#	new file:   ex14.py
+#	new file:   ex15.py
+#	new file:   ex15_sample.txt
+#	new file:   ex16.py
+#	new file:   ex16_sample.txt
+#	new file:   ex17-2.py
+#	new file:   ex17-3.py
+#	new file:   ex17.py
+#	new file:   ex18.py
+#	new file:   ex19.py
+#	new file:   ex2.py
+#	new file:   ex20.py
+#	new file:   ex20test.txt
+#	new file:   ex21.py
+#	new file:   ex24.py
+#	new file:   ex25.py
+#	new file:   ex25.pyc
+#	new file:   ex26.py
+#	new file:   ex26.pyc
+#	new file:   ex29.py
+#	new file:   ex3.py
+#	new file:   ex30.py
+#	new file:   ex31.py
+#	new file:   ex32.py
+#	new file:   ex33.py
+#	new file:   ex35.py
+#	new file:   ex39.py
+#	new file:   ex4.py
+#	new file:   ex40.py
+#	new file:   ex5.py
+#	new file:   ex6.py
+#	new file:   ex7.py
+#	new file:   ex8.py
+#	new file:   ex9.py
+#	new file:   test.txt
+#
+
